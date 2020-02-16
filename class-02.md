@@ -27,9 +27,9 @@
  -----------------
  #### JS Summary :
  - DATA types : numeric(0 to 9) , string(text) or boolean(true or false).
- - script contains many statements.
- - Variables like container to save temporarily a value.
- - Arrays are variables but to store many informtion at one time.
- - Expressions evaluate into one value , rely on operators to calculate a value.
+ - _script_ contains many statements.
+ - _Variables_ like container to save temporarily a value.
+ - _Arrays_ are variables but to store many informtion at one time.
+ - _Expressions_ evaluate into one value , rely on operators to calculate a value.
  
  
