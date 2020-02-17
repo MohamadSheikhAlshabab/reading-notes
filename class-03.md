@@ -1,5 +1,5 @@
 # JS Summary :
- - Comparison operators (===,!==,==,!=,<,>,<=.=>) used to compare two operands.
+ - Comparison operators (===,!==,==,!=,<,>,<=,=>) used to compare two operands.
  - Logical operators to combine more than one set.- if else statement allow to run set code if condition is true else is false.
  - switch statement made up switch value and case which indicates to a possible value and the code should run if variable equal to value.
  - Types of loops : for , while  and do. all of them used to repeat a set of statement.
