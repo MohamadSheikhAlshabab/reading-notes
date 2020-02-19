@@ -45,3 +45,11 @@ ___________
 - parameters is like variables and parameters put inside function.
 - Arguments as values : function_name(value1,value2);
 - Arguments as variables : value1= 4; value2 = 5;  function_name(value1,value2); .
+----------------
+# Pair Programming :
+1. Greater efficiency:it's easier to catch any bug in code but takes longer time than solo programming.
+2. Engaged collaboration : different way of thinking help to reach out to solve.
+3. Learning from fellow students : enhanecenment your thought by listen different one form your partner.
+4. Social skills : improve your social skill when work with someone else 
+5. Job interview readiness
+6. Work environment readiness
